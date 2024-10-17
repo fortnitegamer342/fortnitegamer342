@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Supported Versions
-
+Versions 5.1x and 4.0x are supported 
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -11,8 +11,8 @@
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
+If there are any vulnerabilitys please report them here
 
 
-
-## updates can come any where from 1 to 2 weeks
+## updates can come any where from 1 to 2 weeks 
 
