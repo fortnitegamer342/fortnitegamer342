@@ -1,8 +1,8 @@
-# Markdown Example
+## Gammer bud
 
 This is a markdown file.
 
-## This is a Subheading
+## Gammer bud page, this is where you can find the pages information
 
 To create an ordered list:
 
